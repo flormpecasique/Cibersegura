@@ -1,5 +1,8 @@
 # Cibersegura | Cybersecurity Awareness Website 🛡️
 
+![Preview](/preview-website.png)
+
+
 An educational website designed to raise awareness about common cybersecurity risks and how to stay safe online.
 
 The project presents essential cybersecurity concepts in a simple and accessible format for everyday internet users.
